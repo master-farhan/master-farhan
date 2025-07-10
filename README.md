@@ -8,7 +8,7 @@ I'm a passionate **Frontend Web Developer** from Bangladesh, currently learning 
 - 🌱 I’m currently learning **Node.js, Express.js, MongoDB, REST APIs**
 - 💞️ I’m looking to collaborate on open-source frontend and full-stack projects  
 - 📫 Reach me via:  
-  - Email: `farhansadik.dev@gmail.com`  
+  - Email: `farhansadik0760@gmail.com`  
   - LinkedIn: [linkedin.com/in/master-farhan](https://www.linkedin.com/in/md-farhan-sadik-467340316/)  
   - Portfolio: [codexfoli0.netlify.app](https://codexfoli0.netlify.app)
 - 😄 Pronouns: He/Him  
